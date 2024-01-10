@@ -1,0 +1,51 @@
+.topic h2{
+    color: #ff00aa;
+}
+
+.topic{
+    color: #34495e;
+    background-color: #a8aeb3;
+    font-weight: 500;
+    font-style: italic;
+    border: 2px dashed #8e44ad;
+    border-radius: 10px;
+}
+.list{
+    background-color: #34495e;
+}
+.list lo{
+    color: #ecf0f1;
+    border: 2px solid black;
+    font-size: 30px;
+}
+.list h2{
+    color: #1abc9c;
+    font-size: 35px;
+}
+
+.text{
+    border: 2px solid black;
+    width: 200px;
+    
+}
+.links {
+    border: 2px solid black;
+
+}
+.links{
+    border: solid;
+    background-color: #34495e;
+    width: 200px;
+}
+.links a{
+    color: #f70606;
+}
+.links img{
+    width: 50px ;
+    height: 50px;
+
+}
+
+
+/*стили связанные с текстмо наследуются
+а не связанные с текстом не наследуются;

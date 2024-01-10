@@ -1,0 +1,32 @@
+.mi {
+    color: blue;
+}
+.mi h1{
+    color: brown;
+    font-style: italic;
+}
+.mi h2{
+    color: green;
+}
+.mi h3{
+    color: chocolate;
+}
+.links img{
+    width: 50px;
+    height: 50px;
+}
+.foto img{
+    width: 500px;
+    height: 400px;
+}
+
+.list ul{
+    background-color: darkslategray;
+    width: 100px;
+    color: black;
+
+}
+tr{
+    background-color: grey;
+    font-style:oblique
+}
